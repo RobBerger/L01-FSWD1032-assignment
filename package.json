@@ -1,0 +1,9 @@
+{
+    "name": "l01-ts assignment",
+    "version": "1.0.0",
+    "description": "Lesson 1 Assignment",
+    "main": "index.js",
+    "scripts": {
+        "start": "tsc && node index.js"
+    }
+}
